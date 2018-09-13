@@ -1,4 +1,4 @@
-<form action="parcial1c.php" method="get">
+<form action="ejercicio1c.php" method="get">
 <?php
 if($_GET["numero"] < 5) {
     for($i = 0; $i < 5; $i++) {

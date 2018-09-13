@@ -1,6 +1,6 @@
 <html>
 <body>
-<form action="parcial2b.php" method="get">
+<form action="ejercicio2b.php" method="get">
 Dia:
 <select name="dia">
     <?php
